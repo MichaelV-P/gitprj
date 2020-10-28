@@ -1,2 +1,1 @@
-# gitprj
-adds 10 to a random integer of 0-10
+A program that adds a random integer to the number 10
